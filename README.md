@@ -1,6 +1,6 @@
 # hunter-phone
 hunter phone script NoPixel_3.0 inspired
-
+And Fixd Lang
 # qb-phone
 qb-phone mixed between nopixel and iphone
 
