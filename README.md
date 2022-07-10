@@ -16,6 +16,6 @@ qb-phone mixed between nopixel and iphone
 
 Preview
 https://streamable.com/9u7t1e
-https://streamable.com/9u7t1e
+
 
 ![iphonepreview](https://cdn.discordapp.com/attachments/945251455177211914/994006100888277062/20220706032114_1.jpg)
